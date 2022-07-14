@@ -1,6 +1,6 @@
 function getMiddle(s)
 {
-    let halfValue = s.length/2
+  let halfValue = s.length/2
   return s.length % 2 === 0 ? 
     s.substring(halfValue-1 , halfValue+1) : s[Math.floor(halfValue)]
 }

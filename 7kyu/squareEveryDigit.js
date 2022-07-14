@@ -11,3 +11,5 @@ function squareDigits(num){
 
 //another
  // +num.toString().split('').map(i => i*i).join('');
+
+ // 
